@@ -1,0 +1,16 @@
+[   {
+    "Image":"https://e7.pngegg.com/pngimages/129/459/png-clipart-computer-mouse-computer-keyboard-gamer-mouse-mats-computer-mouse-game-electronics.png",
+    "Name":"Producto 1",
+    "Cost":"$14"
+},
+{
+    "Image":"https://e7.pngegg.com/pngimages/562/177/png-clipart-black-sony-playstation-dualshock-4-controller-playstation-4-game-controllers-dualshock-4-mando-ps4-dibujo-electronics-video-game-thumbnail.png",
+    "Name":"Producto 2",
+    "Cost":"$9"
+},
+{
+    "Image":"https://i.blogs.es/25be06/auricularesjugonesap/1366_2000.jpg",
+    "Name":"Producto 3",
+    "Cost":"$15"
+}
+]
